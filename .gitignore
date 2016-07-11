@@ -1,0 +1,6 @@
+# Composer PHAR
+/composer.phar
+
+/views-old
+
+/vendor/autoload.php
